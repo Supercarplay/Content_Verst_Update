@@ -1,4 +1,4 @@
-<div><img width="2180" height="727" alt="Frame 32" src="https://github.com/user-attachments/assets/eb7ad790-a232-48e7-a684-e5a4b8b7cc23" /></div>
+<div align="center"><img width="2180" height="727" alt="Frame 32" src="https://github.com/user-attachments/assets/eb7ad790-a232-48e7-a684-e5a4b8b7cc23" /></div>
 
 📋 Описание проекта
 =
